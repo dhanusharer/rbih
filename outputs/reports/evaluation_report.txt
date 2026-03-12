@@ -1,0 +1,6 @@
+AML Mule Hunter — Evaluation Report
+==================================================
+lgbm            AUC-ROC: 0.9987
+xgb             AUC-ROC: 0.9981
+logistic        AUC-ROC: 0.9986
+ensemble        AUC-ROC: 0.9989
